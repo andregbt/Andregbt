@@ -6,20 +6,20 @@ I have experience working with both front-end and back-end technologies, and I a
 
 🔭 Skills
   
-  HTML
-  CSS
-  JavaScript
-  Ruby
-  Rails
-  Sqlite
-  MySQL
-  Bootstrap
-  Responsive Web Design
+  HTML,
+  CSS,
+  JavaScript,
+  Ruby,
+  Rails,
+  Sqlite,
+  MySQL,
+  Bootstrap,
+  Responsive Web Design,
   Cross-Browser Compatibility
   
 🌱 I’m currently learning
  
- React
+ React,
  Javascript
 
 ⚡ Fun fact:
