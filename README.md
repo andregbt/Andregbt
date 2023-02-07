@@ -1,7 +1,7 @@
-<!--
-#Hello there👨‍💻 !
 
-##My name is Andre and I'm a Junior Full Stack Web Developer with a passion for building dynamic, scalable web applications and a particular interest for Front End.
+Hello there👨‍💻 !
+
+My name is Andre and I'm a Junior Full Stack Web Developer with a passion for building dynamic, scalable web applications and a particular interest for Front End.
 I have experience working with both front-end and back-end technologies, and I am comfortable working with a variety of programming languages and frameworks.
 
 🔭 Skills
@@ -29,5 +29,4 @@ Feel free to reach out to me via email at andre.gomes.teixeira22@gmail.com or co
 
 Thank you for visiting my Github profile!
 
--->
 
